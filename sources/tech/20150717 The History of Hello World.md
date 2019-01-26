@@ -1,5 +1,5 @@
 [#]: collector: (lujun9972)
-[#]: translator: ( )
+[#]: translator: (zzzzzzmj )
 [#]: reviewer: ( )
 [#]: publisher: ( )
 [#]: url: ( )
@@ -129,7 +129,7 @@ via: https://www.thesoftwareguild.com/blog/the-history-of-hello-world/
 
 作者：[thussong][a]
 选题：[lujun9972][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[zzzzzzmj](https://github.com/zzzzzzmj)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
